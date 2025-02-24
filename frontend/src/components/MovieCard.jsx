@@ -1,4 +1,4 @@
-export function MovieCard({movie}) {
+function MovieCard({movie}) {
 
     function onFavoriteClick (){
         alert("clicked")
